@@ -1,10 +1,4 @@
-Esse é um projeto para o conteúdo de `Componentes com estado`.
-
-### Antes de iniciar
-
-Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
-
-Após feito o fork, clone o repositório criado para o seu computador.
+Clone o repositório criado para o seu computador.
 
 Rode o `npm install`.
 
